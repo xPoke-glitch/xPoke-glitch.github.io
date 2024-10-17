@@ -1,9 +1,9 @@
 # Site settings
-title: Freelancer
+title: Cristian Ghiorzi
 email: cri.ghiorzi@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Cristian Ghiorzi Game Developer Portfolio"
-keywords: "your keywords, separated by commas"
+keywords: "Game Developer, Unity, Unreal Engine, Portfolio, Cristian, Ghiorzi, Programmer, Developer"
 skills: "Game Developer - Unity - Unreal Engine"
 meta_author: Cristian Ghiorzi
 
@@ -32,31 +32,26 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Cristian Ghiorzi
+  location: Parma, Italy
   social: Around the Web
-  credits: Credits
+  credits: Contact me
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/cristian-ghiorzi-900000200/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/xPoke-glitch
+  - title: itch.io
+    url: https://pokedev.itch.io/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Varano de' Melegari, Parma, Italy
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'You can email me here at <a href="cri.ghiorzi@gmail.com">cri.ghiorzi@gmail.com</a>.'
 
 # Build settings
 markdown: kramdown
