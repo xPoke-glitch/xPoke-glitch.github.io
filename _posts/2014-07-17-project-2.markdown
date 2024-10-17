@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: None
+img: rosso.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: None
+client: Rossopomodoro - Sony
+category: Game Development
+description: Game developed for Rossopomodoro and Sony Entertainment for the latest Ghostbusters movie. The game is a 2D pac-man style game where you are the ghost and you have to avoid the ghostbusters traps. The game had over 10.000 players.
 ---
