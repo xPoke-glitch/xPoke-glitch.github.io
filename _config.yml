@@ -43,7 +43,7 @@ social:
     url: https://www.linkedin.com/in/cristian-ghiorzi-900000200/
   - title: github
     url: https://github.com/xPoke-glitch
-  - title: itch.io
+  - title: itch-io
     url: https://pokedev.itch.io/
 
 # Postal address (add as many lines as necessary)
@@ -51,7 +51,7 @@ address:
   - line: Varano de' Melegari, Parma, Italy
 
 # Credits content
-credits: 'You can email me here at <a href="cri.ghiorzi@gmail.com">cri.ghiorzi@gmail.com</a>.'
+credits: 'You can email me here at cri.ghiorzi@gmail.com.'
 
 # Build settings
 markdown: kramdown
