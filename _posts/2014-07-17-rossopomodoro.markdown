@@ -4,6 +4,7 @@ modal-id: 2
 date: 2023-01-11
 img: rosso.png
 alt: image-alt
+video: rosso-video.gif
 project-date: 2023
 client: Rossopomodoro - Sony
 category: Game Development

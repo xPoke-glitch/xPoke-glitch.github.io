@@ -4,6 +4,7 @@ modal-id: 1
 date: 2024-01-01
 img: mulino.png
 alt: image-alt
+video: rosso-video.gif
 project-date: 2024
 client: Barilla - Mulino Bianco
 category: Game Development
