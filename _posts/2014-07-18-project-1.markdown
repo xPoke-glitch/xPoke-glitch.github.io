@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: None
+img: mulino.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: None
+client: Barilla - Mulino Bianco
+category: Game Development
+description: Game developed for Barilla - Mulino Bianco, a narrative based game where the player has to explore 4 areas and complete many minigames in order to help the main characters. The game was played by over 50.000 people and has more than 100.000 game sessions.
 ---
