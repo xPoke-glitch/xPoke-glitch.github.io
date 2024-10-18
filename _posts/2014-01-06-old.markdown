@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2023-01-11
+img: old.png
+alt: image-alt
+video: old.png
+project-date: 2023
+client: Old Portfolio
+category: Game Development
+description: Here you can find some of my old projects and games that I have developed during my studies. Click <a href="https://www.youtube.com/watch?v=oKULYWaBgpU">here</a> to see the video. Check out also my <a href="https://pokedev.itch.io/">Itch.io</a> for more games and projects.
+---
