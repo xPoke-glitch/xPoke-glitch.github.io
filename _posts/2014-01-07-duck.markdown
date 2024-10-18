@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2023-01-11
+img: duck.png
+alt: image-alt
+video: duck-video.gif
+project-date: 2023
+client: Game Jam
+category: Game Development
+description: Game developed for the Multiplayer Game Jam, made in top 10 (6th place), check out the game <a href="https://acemoisan.itch.io/duck-trust">HERE</a>.
+---
