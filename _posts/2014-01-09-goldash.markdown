@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2023-01-11
+img: goldash.png
+alt: image-alt
+video: goldash-video.gif
+project-date: 2023
+client: Game Jam
+category: Game Development
+description: Game developed during my studies at DBGA (Digital Board Game Academy), it's an endless runner platform where you have to dodge enemies, collect items, complete missions and unlock skins and achievements. Check out the game <a href="https://pokedev.itch.io/goldash">HERE</a>.
+---
