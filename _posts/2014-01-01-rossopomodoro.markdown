@@ -8,5 +8,5 @@ video: rosso-video.gif
 project-date: 2023
 client: Rossopomodoro - Sony
 category: Game Development
-description: Game developed for Rossopomodoro and Sony Entertainment for the latest Ghostbusters movie. The game is a 2D pac-man style game where you are the ghost and you have to avoid the ghostbusters traps. The game had over 10.000 players.
+description: Game developed for Rossopomodoro and Sony Entertainment for the latest Ghostbusters movie. The game is a 2D pac-man style game where you are the ghost and you have to avoid the ghostbusters traps. The game had over 10.000 players. I was responsible of coding the entire game (Gameplay, UI, Backend Integration, Animations)
 ---

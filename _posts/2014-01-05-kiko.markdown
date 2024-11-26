@@ -8,5 +8,5 @@ video: kiko-video.gif
 project-date: 2023
 client: Kiko
 category: Game Development
-description: Game developed for Kiko, multiple quiz games in order to let players compete for winning prizes. This game was played by over 20.000 people and had over 50.000 game sessions.
+description: Game developed for Kiko, multiple quiz games in order to let players compete for winning prizes. This game was played by over 20.000 people and had over 50.000 game sessions. I was responsible of coding the entire game (Gameplay, UI, Backend Integration, Animations)
 ---
